@@ -1,0 +1,34 @@
+# nmn
+#header {
+    text-align: center;
+    margin-bottom: 32px;
+}
+#main {
+  font-family: Georgia;
+  font-weight: 400px;
+  margin: 0 auto;
+  max-width: 600px;
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+#footer {
+    text-align: center;
+    margin-top: 64px;
+}
+h1 {
+    font-size: 36px;
+    font-weight: 400px;
+    margin-bottom: 0;
+}
+h2 {
+    font-size: 32px;
+    font-weight: 400px;
+    margin-bottom: 0;
+    border-bottom: 1px solid gray; /* Параметры линии под текстом */
+}
+h3 {
+    font-size: 20px;
+    font-weight: 400px;
+    margin-bottom: 0;
+}
